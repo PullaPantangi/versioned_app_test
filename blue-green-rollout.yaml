@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: blue-green
-        image: pullapantangi/app_version_wf:bb813592-4d82-45f9-9b6c-8656d12377e1
+        image: pullapantangi/app_version_wf:0fe519cc-377b-46aa-85a5-c8bd13222c86
         env:
         - name: APP_VERSION
           value: "v1"
